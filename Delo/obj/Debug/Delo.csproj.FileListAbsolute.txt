@@ -1,0 +1,28 @@
+C:\Users\avdoy\source\repos\Delo\Delo\bin\Debug\Delo.exe.config
+C:\Users\avdoy\source\repos\Delo\Delo\bin\Debug\Delo.exe
+C:\Users\avdoy\source\repos\Delo\Delo\bin\Debug\Delo.pdb
+C:\Users\avdoy\source\repos\Delo\Delo\obj\Debug\Delo.csproj.AssemblyReference.cache
+C:\Users\avdoy\source\repos\Delo\Delo\obj\Debug\Delo.csproj.SuggestedBindingRedirects.cache
+C:\Users\avdoy\source\repos\Delo\Delo\obj\Debug\Delo.Form1.resources
+C:\Users\avdoy\source\repos\Delo\Delo\obj\Debug\Delo.Properties.Resources.resources
+C:\Users\avdoy\source\repos\Delo\Delo\obj\Debug\Delo.Registration.resources
+C:\Users\avdoy\source\repos\Delo\Delo\obj\Debug\Delo.csproj.GenerateResource.cache
+C:\Users\avdoy\source\repos\Delo\Delo\obj\Debug\Delo.csproj.CoreCompileInputs.cache
+C:\Users\avdoy\source\repos\Delo\Delo\obj\Debug\Delo.exe
+C:\Users\avdoy\source\repos\Delo\Delo\obj\Debug\Delo.pdb
+C:\Users\avdoy\source\repos\Delo\Delo\obj\Debug\Delo.addDeloForm.resources
+C:\Users\avdoy\source\repos\Delo\Delo\obj\Debug\Delo.Dela.resources
+D:\Мусор\Учеба\ИЗ ООП 2022\Delo\Delo\bin\Debug\Delo.exe.config
+D:\Мусор\Учеба\ИЗ ООП 2022\Delo\Delo\bin\Debug\Delo.exe
+D:\Мусор\Учеба\ИЗ ООП 2022\Delo\Delo\bin\Debug\Delo.pdb
+D:\Мусор\Учеба\ИЗ ООП 2022\Delo\Delo\obj\Debug\Delo.csproj.AssemblyReference.cache
+D:\Мусор\Учеба\ИЗ ООП 2022\Delo\Delo\obj\Debug\Delo.csproj.SuggestedBindingRedirects.cache
+D:\Мусор\Учеба\ИЗ ООП 2022\Delo\Delo\obj\Debug\Delo.addDeloForm.resources
+D:\Мусор\Учеба\ИЗ ООП 2022\Delo\Delo\obj\Debug\Delo.Dela.resources
+D:\Мусор\Учеба\ИЗ ООП 2022\Delo\Delo\obj\Debug\Delo.Form1.resources
+D:\Мусор\Учеба\ИЗ ООП 2022\Delo\Delo\obj\Debug\Delo.Properties.Resources.resources
+D:\Мусор\Учеба\ИЗ ООП 2022\Delo\Delo\obj\Debug\Delo.Registration.resources
+D:\Мусор\Учеба\ИЗ ООП 2022\Delo\Delo\obj\Debug\Delo.csproj.GenerateResource.cache
+D:\Мусор\Учеба\ИЗ ООП 2022\Delo\Delo\obj\Debug\Delo.csproj.CoreCompileInputs.cache
+D:\Мусор\Учеба\ИЗ ООП 2022\Delo\Delo\obj\Debug\Delo.exe
+D:\Мусор\Учеба\ИЗ ООП 2022\Delo\Delo\obj\Debug\Delo.pdb
